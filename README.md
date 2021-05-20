@@ -11,3 +11,5 @@ Predict individual income using demography data, the technical skills include
 5. model tuning
   - gridsearchCV
 6. feature importance.
+
+https://app.gitbook.com/@allen-23/s/machine-learning-project/
